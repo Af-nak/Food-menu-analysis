@@ -79,8 +79,7 @@ The exploratory phase focused on answering key questions:
   - Snacks: **Chocolate Bar** leads with a popularity score of **6.0**  
   - Soups: **Chicken Noodle Soup** ranks highest with a popularity score of **5.3**  
 
-- The **highest-rated food item** is **Mushroom Soup (4.0)**, reflecting strong customer satisfaction likely driven by quality and taste.  
-  - The **lowest-rated item** is **Cola Drink (3.6)**  
+- From a quality perspective, Mushroom Soup emerges as the highest-rated item of 4.0, indicating strong customer satisfaction, while Cola Drink ranks lowest of 3.6, suggesting a need for improvement or repositioning.  
 
 - **Calories Insight:**  
   - Lowest Calories: **Milkshake**  
