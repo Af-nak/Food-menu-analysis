@@ -135,6 +135,6 @@ This project demonstrates how Excel can be used to transform raw data into meani
 ## Dashboard Demo  
 Click below to explore how the dashboard uncovers insights on pricing, popularity, and customer preferences.
 
-[![Watch the Dashboard Demo](Image/food-menu-dashboard-1.jpg)]([https://your-video-link.com](https://drive.google.com/file/d/1kKC6h-CoLXNEwspl0ZaRq1RW1YZkKP89/view?usp=drive_link))
+[![Watch the Dashboard Demo](Image/food-menu-dashboard-1.jpg)]((https://drive.google.com/file/d/1kKC6h-CoLXNEwspl0ZaRq1RW1YZkKP89/view?usp=drive_link))
 
 By leveraging Excel analytics and visualization techniques, businesses can make **smarter, data-driven decisions** that enhance both customer satisfaction and profitability.
